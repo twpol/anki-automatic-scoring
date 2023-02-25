@@ -1,2 +1,3 @@
-# anki-automatic-scoring
-An Anki add-on which automatically scores reviews
+# Anki Automatic Scoring
+
+An Anki add-on which automatically scores reviews.
